@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\bin\Debug\net5.0\Exercise_HackerRank.exe
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\bin\Debug\net5.0\Exercise_HackerRank.deps.json
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\bin\Debug\net5.0\Exercise_HackerRank.runtimeconfig.json
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\bin\Debug\net5.0\Exercise_HackerRank.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\bin\Debug\net5.0\Exercise_HackerRank.dll
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\bin\Debug\net5.0\ref\Exercise_HackerRank.dll
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\bin\Debug\net5.0\Exercise_HackerRank.pdb
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.dll
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\ref\Exercise_HackerRank.dll
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.pdb
+C:\Users\Administrator\Desktop\RepoHackerRank\HackerRank-Ejercicios1\Exercise_HackerRank\Exercise_HackerRank\obj\Debug\net5.0\Exercise_HackerRank.genruntimeconfig.cache
