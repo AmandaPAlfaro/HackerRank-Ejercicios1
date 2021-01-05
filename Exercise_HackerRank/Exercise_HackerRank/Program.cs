@@ -14,6 +14,12 @@ namespace Exercise_HackerRank
             List<int> fila3 = new List<int>() { 9, 8, 9 };
 
             List<List<int>> arr = new List<List<int>>();
+            arr.Add(fila1);
+            arr.Add(fila2);
+            arr.Add(fila3);
+
+            var resp = Program.diagonalDifference(arr);
+
         }
 
 
@@ -42,6 +48,13 @@ namespace Exercise_HackerRank
                         Sum2 = Sum2 + arr.ElementAt(j).ElementAt(i);
                     }
                 }
+            }
+
+            var result = Sum1 - Sum2;
+
+            if (result < 0)
+            {
+                result = result * (-1);
             }
 
             return (Sum1 - Sum2);
